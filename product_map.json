@@ -1,0 +1,20 @@
+{
+  "_comment": "Product -> division and factory, taken from the project brief (Products and Factories Correlation). Edit here, not in code. Products not listed show as factory 'Unmapped'.",
+  "products": {
+    "Wonka Bar - Nutty Crunch Surprise": {"division": "Chocolate", "factory": "Lot's O' Nuts"},
+    "Wonka Bar - Fudge Mallows":         {"division": "Chocolate", "factory": "Lot's O' Nuts"},
+    "Wonka Bar - Scrumdiddlyumptious":   {"division": "Chocolate", "factory": "Lot's O' Nuts"},
+    "Wonka Bar - Milk Chocolate":        {"division": "Chocolate", "factory": "Wicked Choccy's"},
+    "Wonka Bar - Triple Dazzle Caramel": {"division": "Chocolate", "factory": "Wicked Choccy's"},
+    "Laffy Taffy":                       {"division": "Sugar", "factory": "Sugar Shack"},
+    "SweeTARTS":                         {"division": "Sugar", "factory": "Sugar Shack"},
+    "Nerds":                             {"division": "Sugar", "factory": "Sugar Shack"},
+    "Fun Dip":                           {"division": "Sugar", "factory": "Sugar Shack"},
+    "Fizzy Lifting Drinks":              {"division": "Other", "factory": "Sugar Shack"},
+    "Everlasting Gobstopper":            {"division": "Sugar", "factory": "Secret Factory"},
+    "Lickable Wallpaper":                {"division": "Other", "factory": "Secret Factory"},
+    "Wonka Gum":                         {"division": "Other", "factory": "Secret Factory"},
+    "Hair Toffee":                       {"division": "Sugar", "factory": "The Other Factory"},
+    "Kazookles":                         {"division": "Other", "factory": "The Other Factory"}
+  }
+}
